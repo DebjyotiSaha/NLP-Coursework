@@ -10,3 +10,15 @@
 7. The final step is to execute 'chat.py' file in command prompt, and the chatbot is started.
 
 ### I will further upload the file details in a document file later. - Debjyoti Saha ###
+
+Added a JPYNB file which has all the files .
+
+made a few changes in code (1 or 2)
+
+
+Some things to download to get it to run (pip install )
+
+nltk,torch,ipywidgets 
+
+
+In jypynb added a last sell to just delete the data.pth from local directry to keep everything organized 
