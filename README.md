@@ -11,14 +11,13 @@
 
 ### I will further upload the file details in a document file later. - Debjyoti Saha ###
 
-Added a JPYNB file which has all the files .
-
-made a few changes in code (1 or 2)
-
-
-Some things to download to get it to run (pip install )
-
-nltk,torch,ipywidgets 
+## Debjyoti's Analysis ##
+1. Chronic Kidney disease chatbot python file is uploaded. The file is a kind of dynamic chatbot in which we are not using any kind of json file but we are using an published article found on the internet.
+2. Use Google colab to execute the file as some libraries may not work.
 
 
-In jypynb added a last sell to just delete the data.pth from local directry to keep everything organized 
+## Kowshik's Analysis ##
+1. Added a JPYNB file which has all the files .
+2. Made a few changes in code (1 or 2)
+3. Some things to download to get it to run (pip install ), nltk,torch,ipywidgets 
+4. In jypynb added a last sell to just delete the data.pth from local directry to keep everything organized 
