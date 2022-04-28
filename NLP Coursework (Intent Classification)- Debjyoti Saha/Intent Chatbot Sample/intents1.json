@@ -1,0 +1,174 @@
+{
+  "intents1": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "What's up?",
+        "How is it going",
+        "Greetings, welcome"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },   
+    {
+      "tag": "shop",
+      "patterns": [
+        "I had like to buy something",
+        "what are you products?",
+        "Do you sell pizza",
+        "What is the best food here",
+        "What are you selling for today"
+      ],
+      "responses": [
+        "Our shop consists of Pizza's, Shakes, Beverages and many other things you would like when you're about to hangout with your friends"
+      ]
+    },
+    {
+      "tag": "hours",
+      "patterns": [
+        "When are you guys open",
+        "What are your working hours",
+        "Opening and closing hours"
+      ],
+      "responses": [
+        "We're open 24/7"
+      ]
+    },    
+    {
+      "tag": "buy",
+      "patterns": [
+        "I would like to order",
+        "What things are avalaible"
+      ],
+      "responses": [
+        "Before you order we need to take some details about you. Whose this order for"
+      ]
+    },
+    {
+      "tag": "name",
+      "patterns": [
+        "You can call me Kowshik",
+        "Kowshik here!",
+        "I am Kowshik",
+        "My name is Debjyoti",
+        "Shweta here",
+        "Aaditya",
+        "Guru",
+        "Kowshik",
+        "Debjyoti"
+      ],
+      "responses": [
+        "Thank you, and what is your age"
+      ]
+    },
+    {
+      "tag": "age",
+      "patterns": [
+        "My age is 23", 
+        "I am 23 years old", 
+        "23 years",
+        "23",
+        "22",
+        "25",
+        "28"
+      ],
+      "responses": [
+        "Thank you for that, you can now proceed with the order",
+        "Thanks, you can now order",
+        "Thank you what would you like to order"
+      ]
+    },
+    {
+      "tag": "order",
+      "patterns": [
+        "I would like to order 2 large pizza",
+        "2 pizza with cheese",
+        "3 medium BBQ chicken pizza"
+      ],
+      "responses":[
+        "Okay done, anything from our shakes",
+        "Noted sir, anything from beverages",
+        "We have shakes too, would you like to order from that"
+      ]
+    },
+    {
+      "tag": "Shakes",
+      "patterns": [
+        "No",
+        "Yeah one coke please",
+        "Yeah one beer with ice",
+        "I would prefer one red wine"
+      ],
+      "responses": [
+        
+        "Thank you your order will here in a minute, how would you like to pay"
+      ]
+    },   
+    {
+      "tag": "payments",
+      "patterns":[
+        "Can I pay by card?",
+        "Can I pay by cash",
+        "Card",
+        "Cash"        
+      ],
+      "responses": [
+        "Yes, you can pay by Cash, card, apple pay, gpay"
+      ]
+    },
+    {
+      "tag": "card swipe",
+      "patterns":[
+        "Is it done",
+        "Did the money got deducted"        
+      ],
+      "responses":[
+        "Yes its done, would you like the receipt",
+        "Its done, thank you",
+        "Do you want receipt or a email confirmation"
+      ]
+    },
+    {
+      "tag": "pay done",
+      "patterns":[
+        "I would like the receipt",
+        "No, thank you",
+        "yes"
+      ],
+      "responses":[
+        "Okay thank you your order is on the way",
+        "Thank you for ordering",
+        "Your order will be there in 3 mins"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye", 
+        "See you later", 
+        "Goodbye",
+        "I am leaving",
+        "Have a good day",
+        "See ya"
+      ],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon.",
+        "Goodbye! Have a nice day",
+        "Cheers",
+        "See you soon"
+      ]
+    }
+  ]
+}

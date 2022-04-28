@@ -1,0 +1,19 @@
+To demonstrate the outline of the individual coursework, I have divided the zip file into 2 different components:
+	1. NLP Coursework (Intent Classification)- Debjyoti Saha
+	2. Intent Chatbot Sample
+
+First run the, "NLP Coursework (Intent Classification)- Debjyoti Saha.ipynb" file
+
+1. NLP Coursework (Intent Classification)- Debjyoti Saha
+	- The zip file contains 2 things, (.ipynb) file & Intent Chatbot Sample. To go through the outline of the
+	individual coursework please execute the python file named as, "NLP Coursework (Intent Classification)- Debjyoti Saha.ipynb".
+
+2. Intent Chatbot Sample
+	- This folder contains 5 items. The json file is the dataset of the file. The remaining files are (.py) files as while converting those to (.ipynb)
+	the libraries weren't working properly. The execution of the folder Intent Chatbot Sample is given inside the folder.
+
+
+** The overall submission contains: -
+	1. NLP Coursework (Intent Classification)- Debjyoti Saha (Outside zip)
+	2. NLP Coursework (Intent Classification)- Debjyoti Saha.ipynb (Inside zip)
+	3. Intent Chatbot Sample (Inside zip)

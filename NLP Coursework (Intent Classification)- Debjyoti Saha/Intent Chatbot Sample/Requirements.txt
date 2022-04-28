@@ -1,0 +1,27 @@
+Libraries used in the python files: -
+	1. Torch
+	2. Numpy
+	3. Json
+	4. nltk
+
+Before executing the chatbot please make sure the all the files are present in the same directory.
+	1. As these are (.py) files, you can run these through terminal.
+	2. To execute (.py) files, first go into the directory and type, "python <name of the file>.py".
+	3. To initiate the chatbot, execute the file nltk_utils.py as "python nltk_utils.py".
+	4. Then train the chatbot with the help of feed forward neural network, "python model.py".
+	5. When the model is installed train the dataset, "python train.py".
+	6. The final step is to run the file chat.py, "python chat.py".
+
+The chatbot will start working in the terminal.
+To go through the chatbot, you can type the following questions.
+	1. Hey
+	2. I would like to order something
+	3. What are your closing hours
+	4. I would like to order
+	5. As this is a static chatbot the pre-installed name is, "Guru". So type Guru when ask for the details
+	6. Age, 22
+	7. 3 BBQ chicken pizza
+	8. Red wine
+	9. Card
+	10. Is it done
+	11. Bye
