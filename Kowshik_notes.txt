@@ -9,4 +9,7 @@ if yes - >
             Try to implemet ner into this ... ( I can take this up ? 
             Dialogue flow manager no idea should work on this (Shoud we or should we not ?)
             
-            
+Some Links  - https://towardsdatascience.com/complete-guide-to-building-a-chatbot-with-spacy-and-deep-learning-d18811465876
+              https://towardsdatascience.com/how-to-build-your-own-chatbot-using-deep-learning-bb41f970e281
+              https://xatkit.com/how-to-build-chatbot-intent-classifier/
+              https://arxiv.org/ftp/arxiv/papers/2007/2007.04248.pdf
