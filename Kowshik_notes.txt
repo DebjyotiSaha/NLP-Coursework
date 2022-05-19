@@ -1,0 +1,12 @@
+We need to create a data file and comeup with tags for intent file..
+
+Are we fixed on doing onlline order assistance of university of surrey restuarants 
+
+if yes - >
+            Some tags are  Greetings , Available Cusines , Timings , Menu(We can integrate respponse as a  link ??), Low price restuaranat - high end restuarant , Avg cost for 2 or 4 .location , Delivery , Phone number , Ratings , Some reviews 
+            These would give a good enough length to data flow imo  
+            We need to comu up with patterns for each tag around 10-15 and then come up with greetings these can be standard but can be made auto genrated but it may break what i have running now ...
+            Try to implemet ner into this ... ( I can take this up ? 
+            Dialogue flow manager no idea should work on this (Shoud we or should we not ?)
+            
+            
